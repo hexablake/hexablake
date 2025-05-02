@@ -55,7 +55,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/hexablake)  
 [![Twitter](https://img.shields.io/badge/-@hexablake-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/hexablake)  
-📫 **Email**: [hexablake@example.com](mailto:hexablake@example.com)
+📫 **Email**: [hexablake@proton.me](mailto:hexablake@proton.me)
 
 ---
 
